@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sazadur.github.io/sitemap.xml
