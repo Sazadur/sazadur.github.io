@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.linkedin.com/in/sazadur/'>Intel Corporation</a>. Gainesville, FL. mohammad.rahman@ufl.edu. Hardware and Cyber Security.
 
 profile:
   align: right
