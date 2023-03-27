@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected research projects in the domain of microelectronic security
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Supply Chain Security, IP Authentication]
 horizontal: false
 ---
 
