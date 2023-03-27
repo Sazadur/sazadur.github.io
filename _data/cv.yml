@@ -11,17 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD and Master of Science
+    - title: Doctor of Philosophy and Master of Science
       institution: University of Florida, Gainesville, FL, USA
       year: 2022
       description:
-        - Thesis: Hardware Security Assurance via Obfuscation and Authentication
-        - Expertise: Hardware Supply Chain Security, CAD for Security, IP Protection, Obfuscation, Security Metric, Machine Learning, IP Authentication.
+        - Thesis - Hardware Security Assurance via Obfuscation and Authentication
+        - Expertise - Hardware Supply Chain Security, CAD for Security, IP Protection, Obfuscation, Security Metric, Machine Learning, IP Authentication.
     - title: Bachelor of Science
       institution: bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
       year: 2014
       description:
-        - Thesis: Ion Energy Distribution of Multi-frequency Capacitively Plasma.
+        - Thesis - Ion Energy Distribution of Multi-frequency Capacitively Plasma.
 
 - title: Experience
   type: time_table
