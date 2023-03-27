@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sazadur
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sazadur/sat_attack
+  - sazadur/COT5405-Analysis-of-Algorithms-
