@@ -2,64 +2,67 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: M Sazadur Rahman
+#    - name: Date of Birth
+#      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Bengali
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD and Master of Science
+      institution: University of Florida, Gainesville, FL, USA
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis: Hardware Security Assurance via Obfuscation and Authentication
+        - Expertise: Hardware Supply Chain Security, CAD for Security, IP Protection, Obfuscation, Security Metric, Machine Learning, IP Authentication.
+    - title: Bachelor of Science
+      institution: bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Ion Energy Distribution of Multi-frequency Capacitively Plasma.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Security Architecture Engineer
+      institution: Intel Product Assurance and Security team, Intel Corporation
+      year: 2023 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Perform threat modeling of critical security vulnerabilities
+        - Security hardening of next generation Xeon processors against microarchitetcural, side-channel, and telemetry atatcks.
+    - title: Graduate Research Assistant
+      institution: Florida Institute for Cybersecurity Research, Gainesville, FL, USA
+      year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Worked in IP protection and authentication team to develop quantifiable and AI assured countermeasures against semiconductor supply chain threats
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Security Researcher Intern
+      institution: Intel Product Assurance and Security team, Intel Corporation
+      year: Summer 2021
       description:
+        - Developed automated threat models review tool utilizing CWE, CVE, and CAPEC lists from mitre.org for nine different adversary models.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Hardware Security Intern
+      institution: Intel Corporation, Hillsboro, Oregon
+      year: Spring 2020
+      description:
+        - Developed firmware for FIPS 140 -3 security certification of cryptographic hardware using NIST Cryptographic Algo. Verification Program (CAVP)
+
+    - title: Senior Design Engineer
+      institution: Neural Semiconductor Ltd.
+      year: 2017
+      description:
+        - Developed full-chip design flow for Cadence tools; managed PDK & served as foundry contact window.
+        - Lead a Physical design team of 20 engineers to train and deliver 22nm custom chips.
+        
+    - title: ASIC Physical Design Engineer
+      institution: PrimeSilicon Technologies Ltd. 
+      year: 2014 - 2017
+      description:
+        - Worked as implementation and verification engineer to tape out 14nm and 28nm custom silicon using commercial EDA tools
+        - Developed EDA tool flow in Aprissa, Synopsys, Mentor Graphics, and Cadence tools
 
 - title: Open Source Projects
   type: time_table
