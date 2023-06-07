@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <a href='https://link.springer.com/book/10.1007/978-3-031-26896-0'> Our book on CAD Tool for Hardware Security is published in Springer</a>!
-date: 2022-12-16 16:11:00-0400
+title: Starting a tenure-track Assistant Professor Position at the Department of Electrical and Computer Engineering, University of Central Florida from Fall'2023. Go knights!
+date: 2023-06-05 16:11:00-0400
 inline: false
 related_posts: false
 ---
