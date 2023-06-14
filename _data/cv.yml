@@ -64,13 +64,6 @@
         - Worked as implementation and verification engineer to tape out 14nm and 28nm custom silicon using commercial EDA tools
         - Developed EDA tool flow in Aprissa, Synopsys, Mentor Graphics, and Cadence tools
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/sazadur/COT5405-Analysis-of-Algorithms-">Sazadur's repo</a>
-      year: 2020
-      description: Analysis of algorithms
-
 - title: Honors and Awards
   type: time_table
   contents:
