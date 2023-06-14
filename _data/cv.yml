@@ -67,21 +67,24 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - IEEE/ACM DAC PhD Forum Best doctoral dissertation competition finalist
+        - IEEE VTS TTTC’s E. J. McCluskey Best Doctoral Thesis Competition – Runner up
+    - year: 2023
       items: 
-        - Max Planck Medal
+        - IEEE/ACM Design Automation and Test in Europe (DATE) Best Paper Award Nomination
+        - IEEE/ACM DATE PhD Forum Best doctoral dissertation competition finalist
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Hardware Security
+    - title: Hardware and Software Security
       items: 
         - Intellectural property protection against piracy
         - Secure architetcure
+        - Software-assisted micro-architectural security
+        - Secure telemetries
     - title: VLSI Design
       items:
         - Machine learning guided EDA tools
@@ -90,4 +93,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Gardening, Hiking, Cooking, Watching movies, etc.
