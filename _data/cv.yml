@@ -79,6 +79,9 @@
     - title: Mentor
       items:
         - <a href='http://www.gso.ece.ufl.edu/index.php/ph-d-student-mentor-program/'>Ph.D. student mentorship program</a>
+    - title: Organizer
+      items:
+        - <a href='https://trust-hub.org/%23/competitions/hwobfuscation1'>UF/FICS Hardware De-obfuscation Competition.</a>
         
 - title: Honors and Awards
   type: time_table
