@@ -81,12 +81,7 @@
     - title: Hardware Security
       items: 
         - Intellectural property protection against piracy
-        - Insider threats
-        - CAD tools in hardware security
-        - Side-channel analysis
-        - Quantifiable security metrics
         - Secure architetcure
-        - Secure semiconductor chip design
     - title: VLSI Design
       items:
         - Machine learning guided EDA tools
