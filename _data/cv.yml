@@ -86,10 +86,6 @@
       items:
         - Machine learning guided EDA tools
         - Design space optimization
-     - tite: Software Security
-     items:
-        - Software-assisted micro-architectural security
-        - Secure telemetries
 
 - title: Other Interests
   type: list
