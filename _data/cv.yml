@@ -67,34 +67,45 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/sazadur/COT5405-Analysis-of-Algorithms-">Sazadur's repo</a>
+      year: 2020
+      description: Analysis of algorithms
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - IEEE/ACM DAC PhD Forum Best doctoral dissertation competition finalist
+        - IEEE VTS TTTC’s E. J. McCluskey Best Doctoral Thesis Competition – Runner up
+    - year: 2023
       items: 
-        - Max Planck Medal
+        - IEEE/ACM Design Automation and Test in Europe (DATE) Best Paper Award Nomination
+        - IEEE/ACM DATE PhD Forum Best doctoral dissertation competition finalist
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Hardware Security
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Intellectural property protection against piracy
+        - Insider threats
+        - CAD tools in hardware security
+        - Side-channel analysis
+        - Quantifiable security metrics
+        - Secure architetcure
+        - Secure semiconductor chip design
+    - title: VLSI Design
       items:
-        - Description 1.
-        - Description 2.
+        - Machine learning guided EDA tools
+        - Design space optimization
+     - tite: Software Security
+     items:
+        - Software-assisted micro-architectural security
+        - Secure telemetries
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Gardening, Hiking, Cooking, Watching movies.
