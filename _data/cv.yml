@@ -64,6 +64,22 @@
         - Worked as implementation and verification engineer to tape out 14nm and 28nm custom silicon using commercial EDA tools
         - Developed EDA tool flow in Aprissa, Synopsys, Mentor Graphics, and Cadence tools
 
+- title: Professional Services
+  type: nested_list
+  contents:
+    - title: Reviewer
+      items: 
+        - IEEE Transaction on Computer Aided Design, Transactions on Computers, VLSI Test Symposium, International Test Conference, Hardware Oriented Security and Trust.
+        - ACM Transactions on Design Automation of Electronic Systems, Hardware and System Security, Design Automation Conference, Journal on Emerging Technologies in Computing Systems, and Springer Nature Computer Science.
+        
+    - title: Instructor
+      items: 
+        - <a href='https://mestcenter.org/training/m5-a-logic-locking-insertion-and-assessment/'>Micro-electronics Security Training Center</a>
+        - IEEE Young professional workshop on RTL to GDS signoff of an ASIC chip, 2017
+    - title: Mentor
+      items:
+        - <a href='http://www.gso.ece.ufl.edu/index.php/ph-d-student-mentor-program/'>Ph.D. student mentorship program</a>
+        
 - title: Honors and Awards
   type: time_table
   contents:
