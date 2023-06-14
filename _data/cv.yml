@@ -64,41 +64,37 @@
         - Worked as implementation and verification engineer to tape out 14nm and 28nm custom silicon using commercial EDA tools
         - Developed EDA tool flow in Aprissa, Synopsys, Mentor Graphics, and Cadence tools
 
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 1921
       items: 
-        - IEEE/ACM DAC PhD Forum Best doctoral dissertation competition finalist
-        - IEEE VTS TTTC’s E. J. McCluskey Best Doctoral Thesis Competition – Runner up
-    - year: 2023
+        - Nobel Prize in Physics 
+        - Matteucci Medal
+    - year: 2029
       items: 
-        - IEEE/ACM Design Automation and Test in Europe (DATE) Best Paper Award Nomination
-        - IEEE/ACM DATE PhD Forum Best doctoral dissertation competition finalist
-
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Hardware Security
+    - title: Topic 1.
       items: 
-        - Intellectural property protection against piracy
-        - Insider threats
-        - CAD tools in hardware security
-        - Side-channel analysis
-        - Quantifiable security metrics
-        - Secure architetcure
-        - Secure semiconductor chip design
-    - title: VLSI Design
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - Machine learning guided EDA tools
-        - Design space optimization
-     - tite: Software Security
-     items:
-        - Software-assisted micro-architectural security
-        - Secure telemetries
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Gardening, Hiking, Cooking, Watching movies.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
