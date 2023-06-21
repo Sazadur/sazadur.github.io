@@ -4,7 +4,7 @@ title: Research
 permalink: /projects/
 description: Selected research projects in the domain of microelectronic security
 nav: true
-nav_order: 2
+nav_order: 5
 display_categories: [Supply Chain Security, Cloud-EDA Platform Security, Threat Modeling, Secure Architetcure]
 horizontal: false
 ---
