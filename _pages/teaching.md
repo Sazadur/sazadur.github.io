@@ -25,4 +25,6 @@ Developed RTL to GDS Flow using Cadence Toolsfor undetgrad VLSI course at Bangla
 
 I co-authored the first book on CAD tools for Hardware Security published by Springer in March, 2023. Here you can learn how to use commercial EDA tools to detect and mitigate HW security vulnerabilities.
 
+{% include figure.html path="assets/img/book.png" title="CAD for Hardware Security Book" class="img-fluid rounded z-depth-1" %}
+
 https://link.springer.com/book/10.1007/978-3-031-26896-0
