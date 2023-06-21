@@ -2,7 +2,7 @@
 layout: page
 title: Threat Modeling
 description: Property Driven Threat Modeling Database
-img: /assets/img/insider_threat.png
+img: /assets/img/threat_modeling.png
 importance: 1
 category: Threat Modeling
 ---
@@ -11,7 +11,7 @@ Threat modeling systemically analyzes a system to determine its security threats
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/insider_threat.png" title="Property Driven Threat Modeling Database" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/threat_modeling.png" title="Property Driven Threat Modeling Database" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
