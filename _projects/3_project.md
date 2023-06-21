@@ -3,7 +3,7 @@ layout: page
 title: Insider Threat
 description: Protecting Hardware Supply Chain against Insider Threats
 img: assets/img/insider_threat.png
-importance: 1
+importance: 3
 category: Supply Chain Security
 ---
 
