@@ -6,6 +6,9 @@ description: Courses that I contributed
 nav: true
 nav_order: 2
 ---
+## EEL4768 - Computer Architetcure, Fall 2023
+I will be teahcing the Section 3 of EEL 4768 Computer Architetcure in Fall 2023. 
+
 ## Introduction to Hadrware Security and Trust, Spring 2019
 
 I was a teahcing assistant for the Introduction to Hadrware Security and Trust course in Spring 2019. My lecture video on ASIC design flow can be found below.
