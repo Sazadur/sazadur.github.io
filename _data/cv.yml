@@ -26,12 +26,19 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Security Architecture Engineer
-      institution: Intel Product Assurance and Security team, Intel Corporation
+    - title: Assistant Professor
+      institution: Department of Electrical and Computer Engineering, University of Central Florida
       year: 2023 -
       description:
+        - Tenure-track Assistant Professor in the Department of Electrical and Computer Engineering at University of Central Florida
+        - Affiliated with both ECE and CS department at UCF under the "Cyber Security and Privacy Cluster"
+        
+    - title: Security Architecture Engineer
+      institution: Intel Product Assurance and Security team, Intel Corporation
+      year: 2023 - 2023
+      description:
         - Perform threat modeling of critical security vulnerabilities
-        - Security hardening of next generation Xeon processors against microarchitetcural, side-channel, and telemetry atatcks.
+        - Security hardening of next generation Xeon processors against microarchitetcural, side-channel, and telemetry atatcks
     - title: Graduate Research Assistant
       institution: Florida Institute for Cybersecurity Research, Gainesville, FL, USA
       year: 2018 - 2022
@@ -42,7 +49,7 @@
       institution: Intel Product Assurance and Security team, Intel Corporation
       year: Summer 2021
       description:
-        - Developed automated threat models review tool utilizing CWE, CVE, and CAPEC lists from mitre.org for nine different adversary models.
+        - Developed automated threat models review tool utilizing CWE, CVE, and CAPEC lists from mitre.org for nine different adversary models
 
     - title: Hardware Security Intern
       institution: Intel Corporation, Hillsboro, Oregon
