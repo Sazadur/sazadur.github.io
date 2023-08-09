@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.linkedin.com/in/sazadur/'>Assistant Professor @ECE, UCF</a>
 
