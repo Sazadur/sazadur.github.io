@@ -4,7 +4,7 @@ title: Logic Locking
 description: Protecting intelelctual property from piracy
 img: assets/img/Metric for Logic Locking.jpg
 importance: 1
-category: Supply Chain Security
+category: Faculty
 ---
 
 <div class="row">
