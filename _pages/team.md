@@ -14,10 +14,10 @@ Prof. Sazadur Rahman, Ph.D.
 
 Kimia Tasnia
 
-{% include figure.html path="assets/img/kimia.png" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/kimia_headshot.jpg" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
 
 Ishraq Tashdid
-{% include figure.html path="assets/img/ishraq.png" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/ishraq_headshot.jpg" title="Ishraq Tashdid" class="img-fluid rounded z-depth-1" %}
 
 ## Undergraduate Students
 
