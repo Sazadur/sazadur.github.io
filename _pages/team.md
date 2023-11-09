@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-description: Team Members
+description: Team Members in out Lab
 nav: true
 nav_order: 8
 display_categories: [Faculty, PhD Students, Undergraduate Students]
@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/team.md -->
-<div class="projects">
+<div class="team">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
