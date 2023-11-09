@@ -7,7 +7,8 @@ nav: true
 nav_order: 2
 ---
 ## Faculty
-I will be teahcing the Section 3 of EEL 4768 Computer Architetcure in Fall 2023. 
+Prof. Sazadur Rahman, Ph.D.
+{% include figure.html path="assets/img/sazadur_headshot.jpg" title="Dr. Sazadur Rahman" class="img-fluid rounded z-depth-1" %}
 
 ## Ph.D. Students
 
