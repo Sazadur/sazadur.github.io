@@ -5,7 +5,7 @@ permalink: /team/
 description: Team Members
 nav: true
 nav_order: 8
-display_categories: [Mariam Rabadi, John Gierlach, Kimia Tasnia, Ishraq Tashdid]
+display_categories: [Faculty, PhD Students, Undergraduate Students]
 horizontal: false
 ---
 
