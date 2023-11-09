@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
-permalink: /projects/
-description: Selected research projects in the domain of microelectronic security
+title: Team
+permalink: /team/
+description: Team Members
 nav: true
 nav_order: 8
-display_categories: [Supply Chain Security, Cloud-EDA Platform Security, Threat Modeling, Secure Architetcure]
+display_categories: [Mariam Rabadi, John Gierlach, Kimia Tasnia, Ishraq Tashdid]
 horizontal: false
 ---
 
