@@ -5,7 +5,8 @@ permalink: /projects/
 description: Team Members
 nav: true
 nav_order: 8
-display_categories: [Faculty, PhD Students, Undergraduate Students]
+#display_categories: [Faculty, PhD Students, Undergraduate Students]
+display_categories: [Supply Chain Security, Cloud-EDA Platform Security, Threat Modeling, Secure Architetcure]
 horizontal: false
 ---
 
