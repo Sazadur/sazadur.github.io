@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-description: Team Members in out Lab
+description: Team Members in our Lab
 nav: true
 nav_order: 8
 display_categories: [Faculty, PhD Students, Undergraduate Students]
