@@ -2,7 +2,7 @@
 layout: page
 title: John
 description: AMD Undergrad Fellow
-img: assets/img/john_headshot.jpg
+img: assets/img/john_headshot.png
 importance: 1
 category: Undergraduate Students
 ---
