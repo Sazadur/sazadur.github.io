@@ -1,16 +1,15 @@
 ---
 layout: page
 title: Team
-permalink: /projects/
+permalink: /team/
 description: Team Members
 nav: true
 nav_order: 8
-#display_categories: [Faculty, PhD Students, Undergraduate Students]
-display_categories: [Supply Chain Security, Cloud-EDA Platform Security, Threat Modeling, Secure Architetcure]
+display_categories: [Faculty, PhD Students, Undergraduate Students]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/team.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
