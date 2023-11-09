@@ -1,8 +1,8 @@
 --
 layout: page
 permalink: /team/
-title:
-description:
+title: Team
+description: The team members that make things happen!
 nav: true
 nav_order: 2
 ---
