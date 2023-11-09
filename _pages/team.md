@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-permalink: /team/
+permalink: /projects/
 description: Team Members
 nav: true
 nav_order: 8
