@@ -1,58 +1,27 @@
 ---
 layout: page
-title: Team
 permalink: /team/
-description: Team Members in our Lab
+title: Team
+description: Team members in our Lab
 nav: true
-nav_order: 8
-display_categories: [Faculty, PhD Students, Undergraduate Students]
-horizontal: false
+nav_order: 2
 ---
+## Faculty
+I will be teahcing the Section 3 of EEL 4768 Computer Architetcure in Fall 2023. 
 
-<!-- pages/team.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+## Ph.D. Students
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+Kimia Tasnia
+
+{% include figure.html path="assets/img/kimia.png" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
+
+Ishraq Tashdid
+{% include figure.html path="assets/img/ishraq.png" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
+
+## Undergraduate Students
+
+Mariam Rabadi
+{% include figure.html path="assets/img/mariam_headshot.png" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
+
+John Gierlach
+{% include figure.html path="assets/img/john_headshot.png" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
