@@ -2,7 +2,7 @@
 layout: page
 title: John
 description: AMD Undergrad Fellow
-img: assets/img/Metric for Logic Locking.jpg
+img: assets/img/john_headshot.jpg
 importance: 1
 category: Undergraduate Students
 ---
