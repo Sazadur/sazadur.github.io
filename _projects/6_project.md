@@ -3,7 +3,7 @@ layout: page
 title: Threat Modeling
 description: Property Driven Threat Modeling Database
 img: /assets/img/threat_modeling.png
-importance: 1
+importance: 2
 category: Supply Chain Security
 ---
 
