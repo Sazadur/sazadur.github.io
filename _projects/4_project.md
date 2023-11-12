@@ -4,7 +4,7 @@ title: Heterogenous Integration
 description: Establishing Security for Heterogenous Integration
 img: /assets/img/heterogenous.png
 importance: 4
-category: Supply Chain Security
+category: Secure Heterogeneous Integration
 ---
 
 We all are aware that Moore’s law is saturating these days and heterogeneous systems where multiple chiplet SoCs are integrated, is getting the focus now. These chiplets are prone to piracy and side-channel attacks. My work on FSM obfuscation can be augmented with chiplet level provenance and authentication. This work has potential collaboration with device experts, computer architects, digital design and VLSI experts.
