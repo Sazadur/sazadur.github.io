@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Insider Threat
+title: Secure eFPGA based Hardware Redaction and Acceleration 
 description: Protecting Hardware Supply Chain against Insider Threats
-img: assets/img/insider_threat.png
+img: assets/img/eFPGA.png
 importance: 3
 category: Supply Chain Security
 ---
 
-Hardware security community mostly focused on untrusted foundry business model when talking about IP piracy or tampering. However, with CHIPS act., cutting-edge fabrication facilities and ecosystem will be inside US. Therefore, the notion of untrusted foundry will no longer exist and threats from insider will emerge. My work on LUT based fine-grained IP redaction has the potential to secure supply chain against insider threats. Please note that this is a very difficult threat model compared to untrusted foundry as all the parties in the supply chain is untrusted here.
+Embedded Field-Programmable Gate Arrays (eFPGAs) are highly valuable in the realms of IP redaction and acceleration due to their inherent flexibility and reconfigurability. In IP redaction, eFPGAs play a crucial role in securely removing or modifying sensitive intellectual property (IP) within a design before it is shared or deployed, ensuring confidentiality. The flexibility of eFPGAs allows for dynamic IP redaction processes, adapting to different IP protection requirements. eFPGAs are essential for acceleration, particularly in the context of AI, HPC, space, automotive, FHE and data processing applications. These programmable hardware components can be tailored to accelerate specific functions or algorithms, providing optimized acceleration for various workloads. However, eFPGAs suffer from several reverse engineering [9] and approximation based attacks. I plan to develop security monitoring and architectural countermeasures for eFPGA vulnerabilities to ace the pathway for eFPGA based hardware redaction and acceleration.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
