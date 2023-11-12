@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected research projects in the domain of microelectronic security
 nav: true
 nav_order: 8
-display_categories: [Supply Chain Security, Cloud-EDA Platform Security, Threat Modeling, Secure Architetcure]
+display_categories: [Supply Chain Security, AI-Assured Chip Design, Cryptography, Secure Heterogeneous Integration]
 horizontal: false
 ---
 
