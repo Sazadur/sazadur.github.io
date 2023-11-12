@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Heterogenous Integration
+title: Chiplet Authentication
 description: Establishing Security for Heterogenous Integration
 img: /assets/img/heterogenous.png
 importance: 4
