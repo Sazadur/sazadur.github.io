@@ -3,7 +3,7 @@ layout: page
 title: Secure eFPGA based Hardware Redaction and Acceleration 
 description: Protecting Hardware Supply Chain against Insider Threats
 img: assets/img/eFPGA.png
-importance: 3
+importance: 1
 category: Supply Chain Security
 ---
 
