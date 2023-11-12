@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/sazadur/'>Assistant Professor @ECE, UCF</a>
+subtitle: <a href='https://www.ece.ucf.edu/person/sazadur-rahman/'>**Assistant Professor @ECE, UCF**</a>
 
 profile:
   align: right
