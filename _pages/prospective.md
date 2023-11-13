@@ -28,6 +28,9 @@ e) Preferred experience in one of the following:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii) FPGA design\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv) Language: SystemVerilog, TCL/Tk, Java
 
-About UCF: University of Central Florida is a power house for Cybersecurity and VLSI design. We have several collaboration with industry to nurture the next-generation of graduates. We have several graduate fellowship programs with AMD, Intel and TI to provide unique opportunity to earn a graduate degree while engaging in cutting edge research and being fully supported by a generous industrial fellowship. 
+We offer an advanced cutting-edge research program along with a attractive work environment, competitive stipend, tution coverage and health benefits. The city of Orlando, FL is a top destination worldwide with lots of theme parks and recreational facilities around. Interested students should email mohammad.rahman@ucf.edu with **CV, GRE, and TOEFL score report**.
+
+About UCF:
+University of Central Florida's Computer engineering program at the Department of Electrical and Computer Engineering is ranked into top 50 nationally. It is top #3 university in terms of the number of graduate and undergraduate students. UCF is a power house for Cybersecurity and VLSI design. We have several collaboration with industry to nurture the next-generation of graduates. We have several graduate fellowship programs with AMD, Intel and TI to provide unique opportunity to earn a graduate degree while engaging in cutting edge research and being fully supported by a generous industrial fellowship. 
 
 {% include figure.html path="assets/img/UCF Space Launch.jpg" title="University of Central Florida" class="img-fluid rounded z-depth-1" align="right"%}
