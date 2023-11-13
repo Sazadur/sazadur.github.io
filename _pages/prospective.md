@@ -33,3 +33,4 @@ About UCF:
 University of Central Florida's Computer engineering program at the Department of Electrical and Computer Engineering is ranked into top 50 nationally. It is top #3 university in terms of the number of graduate and undergraduate students. UCF is a power house for Cybersecurity and VLSI design. We have several collaboration with industry to nurture the next-generation of graduates. We have several graduate fellowship programs with AMD, Intel and TI to provide unique opportunity to earn a graduate degree while engaging in cutting edge research and being fully supported by a generous industrial fellowship. 
 
 {% include figure.html path="assets/img/UCF Space Launch.jpg" title="University of Central Florida" class="img-fluid rounded z-depth-1" align="right"%}
+@copyright - <a href='https://www.facebook.com/Zakariya.Tomal'>Zakariya Tomal</a>
