@@ -36,6 +36,7 @@ You can find two of his recent blog posts here:
 ## Undergraduate Students
 
 #### <a href='https://www.linkedin.com/in/mariam-rabadi-b2056821b/'>Mariam Rabadi</a>
+Mariam Rabadi is a student at the University of Central Florida pursuing her bachelor’s degree in Electrical Engineering-Comprehensive Track and is currently in the university’s Accelerated Bachelor's-to-Master's Program as she plans to pursue a master’s degree in Electrical Engineering. She is also part of the university honors program in the Burnett Honors College. During her time at UCF, she conducted research in a computer engineering lab specialized in neural networks and computer architecture, and currently conducts research in fully homomorphic encryption (FHE) via an AMD fellowship and works as an Undergraduate Teaching Assistant (UTA). As a UTA, she assists the Linear Circuits professors with grading materials such as exams and quizzes. As part of her current research, she focuses on acceleration algorithms for Number Theoretic Transforms (NTT) and their implementation through code and in hardware using ASIP designer. Mariam aspires to contribute to the advancement of technology and security through the development of robust and efficient hardware systems with a focus on secure computing.
 
 {% include figure.html path="assets/img/mariam_headshot.png" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
 
