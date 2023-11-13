@@ -16,6 +16,7 @@ nav_order: 2
 I am Kimia, a PhD student in Computer Engineering at the University of Central Florida, under the advising of <a href='https://www.ece.ucf.edu/person/sazadur-rahman/'>Dr. Sazadur Rahman</a> at the Cyber Security and Privacy Cluster Center. My research interests lie in the realm of microelectronic supply chain security and EDA platform security and development, especially as they pertain to socially impactful sectors such as health, military, and sustainable development.
 Before joining UCF, I completed my undergraduate studies in Electrical and Electronic Engineering at Bangladesh University of Engineering and Technology. Subsequently, I gained professional experience as a Digital Design Verification Engineer at Neural Semiconductor Ltd. and Synapse Design Automation Inc. Being an DV Engineer, I worked on a number of projects involving my skill set in on-chip protocols, scripting, simulation and debugging. 
 Beyond my academic and professional pursuits, I am an avid traveler who enjoys exploring naturally beautiful destinations and trying different cuisines. Additionally, I actively engage with social communities as part of my larger commitment to social responsibility and awareness.
+
 {% include figure.html path="assets/img/kimia_headshot.jpg" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
 
 ### <a href='https://www.linkedin.com/in/ishraq-tashdid-7051b8194/'>Ishraq Tashdid</a>
