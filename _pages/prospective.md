@@ -20,14 +20,23 @@ We have two fully-funded Ph.D. positions avaiable in our lab starting from Fall 
 (4) AI-Assured Chip Design
 
 Requirements:
+
 a) A bachelor degree in EEE, ECE, CS or any other related fields
+
 b) Strong background in VLSI circuits, computer architetcure, and mathematics
+
 c) Strong hardware/software programming language experience in - C, C++, VHDL/Verilog, Python
+
 d) A GRE/TOEFL score
+
 e) Preferred experience in one of the following:
+
   i) Machine learning 
+  
   ii) Cryptography
+  
   iii) FPGA design 
+  
   iv) Language: SystemVerilog, TCL/Tk, Java.
 
 
