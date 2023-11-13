@@ -10,7 +10,8 @@ nav_order: 2
 <a href='https://www.linkedin.com/in/sazadur/'>Prof. Sazadur Rahman, Ph.D.</a>
 {% include figure.html path="assets/img/sazadur_headshot.jpg" title="Dr. Sazadur Rahman" class="img-fluid rounded z-depth-1" %}
 
-\newline
+
+
 
 
 ## Ph.D. Students
