@@ -29,7 +29,6 @@ Ishraq is a highly motivated and industry-experienced graduate student in the de
 You can find two of his recent blog posts here:
 
 ###### 1)	<a href='https://www.dsinnovators.com/blogs/apb-to-axi-bus-bridge'>APB-to-AXI Bus Bridge</a>
-
 ###### 2)	<a href='https://www.dsinnovators.com/blogs/axi-memory-controller'>AXI-memory Conroller</a>
 
 {% include figure.html path="assets/img/ishraq_headshot.jpg" title="Ishraq Tashdid" class="img-fluid rounded z-depth-1" %}
