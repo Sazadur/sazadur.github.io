@@ -14,7 +14,7 @@ We have two fully-funded Ph.D. positions avaiable in our lab starting from Fall 
 (1) Hardware Security\
 (2) System Security\
 (3) Hardware Acceleration for Cryptography\
-(4) AI-Assured Chip Design\
+(4) AI-Assured Chip Design
 
 Requirements:
 
@@ -23,10 +23,10 @@ b) Strong background in VLSI circuits, computer architetcure, and mathematics\
 c) Strong hardware/software programming language experience in - C, C++, VHDL/Verilog, Python\
 d) A GRE/TOEFL score\
 e) Preferred experience in one of the following:\
-  i) Machine learning\
-  ii) Cryptography\
-  iii) FPGA design\
-  iv) Language: SystemVerilog, TCL/Tk, Java.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i) Machine learning\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii) Cryptography\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii) FPGA design\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv) Language: SystemVerilog, TCL/Tk, Java\
 
 The positions  My research primarily focuses on Hardware Security, Microelectronic Supply Chain Security, Electronic Design Automation, CAD for Security, Machine learning, Secure architecture. To know more details about my current research projects, feel free to check the Research page. If you have prior experience in Machine learning, VLSI design, FPGA design, Computer Architecture, Cryptography, and related fields, do not hesitate to write me at mohammad.rahman@ucf.edu .
 
