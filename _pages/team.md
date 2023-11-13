@@ -10,7 +10,7 @@ nav_order: 2
 <a href='https://www.linkedin.com/in/sazadur/'>Prof. Sazadur Rahman, Ph.D.</a>
 {% include figure.html path="assets/img/sazadur_headshot.jpg" title="Dr. Sazadur Rahman" class="img-fluid rounded z-depth-1" %}
 
-
+\newline
 
 
 ## Ph.D. Students
@@ -20,7 +20,7 @@ I am Kimia, a PhD student in Computer Engineering at the University of Central F
 Before joining UCF, I completed my undergraduate studies in Electrical and Electronic Engineering at Bangladesh University of Engineering and Technology. Subsequently, I gained professional experience as a Digital Design Verification Engineer at Neural Semiconductor Ltd. and Synapse Design Automation Inc. Being an DV Engineer, I worked on a number of projects involving my skill set in on-chip protocols, scripting, simulation and debugging. 
 Beyond my academic and professional pursuits, I am an avid traveler who enjoys exploring naturally beautiful destinations and trying different cuisines. Additionally, I actively engage with social communities as part of my larger commitment to social responsibility and awareness.
 
-{% include figure.html path="assets/img/kimia_headshot.jpg" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/kimia_headshot.jpg" title="Kimia Tasnia" class="img-fluid rounded z-depth-1" align="right"%}
 
 #### <a href='https://www.linkedin.com/in/ishraq-tashdid-7051b8194/'>Ishraq Tashdid</a>
 Ishraq is a highly motivated and industry-experienced graduate student in the department of ECE at the University of Central Florida, working under the supervision of <a href='https://www.ece.ucf.edu/person/sazadur-rahman/'>Dr. Sazadur Rahman</a>. With a strong focus on Hardware Security, EDA Automation, and Secure Architecture Development, his research work is aimed at addressing the growing challenges of protecting electronic systems from cyberattacks.
