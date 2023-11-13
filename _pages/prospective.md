@@ -16,8 +16,7 @@ We have two fully-funded Ph.D. positions avaiable in our lab starting from Fall 
 (3) Hardware Acceleration for Cryptography\
 (4) AI-Assured Chip Design
 
-Requirements:
-
+Requirements:\
 a) A bachelor degree in EEE, ECE, CS or any other related fields\
 b) Strong background in VLSI circuits, computer architetcure, and mathematics\
 c) Strong hardware/software programming language experience in - C, C++, VHDL/Verilog, Python\
@@ -28,7 +27,7 @@ e) Preferred experience in one of the following:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii) FPGA design\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv) Language: SystemVerilog, TCL/Tk, Java
 
-We offer an advanced cutting-edge research program along with a attractive work environment, competitive stipend, tution coverage and health benefits. The city of Orlando, FL is a top destination worldwide with lots of theme parks and recreational facilities around. Interested students should email mohammad.rahman@ucf.edu with **CV, GRE, and TOEFL score report**.
+We offer an advanced cutting-edge research program along with an attractive work environment, competitive stipend, tution coverage and health benefits. The city of Orlando, FL is a top destination worldwide with lots of theme parks and recreational facilities around. Interested students should email mohammad.rahman@ucf.edu with **CV, GRE, and TOEFL score report**.
 
 About UCF:
 University of Central Florida's Computer engineering program at the Department of Electrical and Computer Engineering is ranked into top 50 nationally. It is top #3 university in terms of the number of graduate and undergraduate students. UCF is a power house for Cybersecurity and VLSI design. We have several collaboration with industry to nurture the next-generation of graduates. We have several graduate fellowship programs with AMD, Intel and TI to provide unique opportunity to earn a graduate degree while engaging in cutting edge research and being fully supported by a generous industrial fellowship. 
