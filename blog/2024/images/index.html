@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>2015 | </title>
+    <title>TSMC 65nm Test Chip | </title>
     <meta name="author" content="Sazadur  Rahman, Ph.D.">
-    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-">
+    <meta name="description" content="Test Chip with Security Primitives.">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -34,7 +33,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://sazadur.github.io/blog/2015/">
+    <link rel="canonical" href="https://sazadur.github.io/blog/2024/images/">
     
     <!-- Dark Mode -->
     
@@ -119,28 +118,88 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <div class="post">
+      <!-- _layouts/post.html -->
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title"> <i class="fas fa-calendar fa-sm"></i> 2015 </h1>
-    <p class="post-description"> an archive of posts from this year </p>
+    <h1 class="post-title">TSMC 65nm Test Chip</h1>
+    <p class="post-meta">January 6, 2024</p>
+    <p class="post-tags">
+      <a href="/blog/2024"> <i class="fas fa-calendar fa-sm"></i> 2024 </a>
+        ·  
+        <a href="/blog/tag/fabrication">
+          <i class="fas fa-hashtag fa-sm"></i> fabrication</a>  
+          
+        ·  
+        <a href="/blog/category/ip">
+          <i class="fas fa-tag fa-sm"></i> IP</a>  
+          <a href="/blog/category/protection">
+          <i class="fas fa-tag fa-sm"></i> Protection</a>  
+          
+
+    </p>
   </header>
 
-  <article>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        
-        <tr>
-          <th scope="row">May 15, 2015</th>
-          <td>
-              <a class="post-link" href="/blog/2015/images/">TSMC 65nm Test Chip</a>
-          </td>
-        </tr>
-      
-      </table>
-    </div>
-  </article>
+  <article class="post-content">
+    <p>We fabrictaed a 65 nm TSMC CLN65g+ Test Chip. The top-level design consists of several sub-modules - (i) AES baseline, (ii) AES shielded by iPROBE, (iii) AES PRNG, (iv) PRNG 128, and (v) s38417 from ISCAS’89 benchmark circuits. For the evaluation in this article, we focused our experiments on the first 2 sub-modules. The baseline AES HDL code was collected from opencores.org. All the sub-modules are integrated into a TCL script and synthesized into a gate-level netlist. Synopsys Design Compiler tool was used to perform synthesis. A constraint specification file was used during the synthesis process to define the gate-level design’s clock frequency, port delays, area, and power overhead. After the synthesis step, a gate-level design constraint file (SDC) was exported and later used in the place-and-route design flow. The gate-level netlist and associated testbench were simulated in Synopsys VCS MAX flow.</p>
 
+<p>Back-end: The synthesized and verified gate-level netlist along with the associated timing constraint file was the input design to the place-and-route step. Place-and-route was performed in Synopsys IC Compiler and physical verification of design-rule-check (DRC) and layout-versus-schematic (LVS) were performed in Mentor/Siemens EDA Calibre. Figure shows a top-level view of the place-and-route design.</p>
+
+<p>Packaging: The size of the chip is 1.672 mm^2^ x 1.672 mm^2^. Figure shows the fabricated and packaged chip in dual inline packaging (DIP). A DIP is a chip encased in hard plastic with pins running along the outside. To facilitate probing and evaluate the efficiency of iPROBE, the top of this chip is covered with a removable glass lid so that the die can be more easily accessed. In other words, we did not have to perform time-consuming sample preparation steps such as depackaging.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/testchip_1.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/PNR.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    The left side shows a dual-in-line (DIP) glass packaged TSMC 65nm test chip. The right side shows the floorplan of the chip.
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/Fig20.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+  </article>
 </div>
 
     </div>
