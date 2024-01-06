@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Harris Engineering Center, Room - 339</p>
+    <p>R-339, Harris Engineering Center</p>
     <p>4328 Scorpius St</p>
     <p>Orlando, FL 32816</p>
 
