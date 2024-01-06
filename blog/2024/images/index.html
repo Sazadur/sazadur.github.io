@@ -33,7 +33,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://sazadur.github.io/blog/2015/images/">
+    <link rel="canonical" href="https://sazadur.github.io/blog/2024/images/">
     
     <!-- Dark Mode -->
     
@@ -124,29 +124,29 @@
 
   <header class="post-header">
     <h1 class="post-title">TSMC 65nm Test Chip</h1>
-    <p class="post-meta">May 15, 2015</p>
+    <p class="post-meta">January 6, 2024</p>
     <p class="post-tags">
-      <a href="/blog/2015"> <i class="fas fa-calendar fa-sm"></i> 2015 </a>
+      <a href="/blog/2024"> <i class="fas fa-calendar fa-sm"></i> 2024 </a>
         ·  
-        <a href="/blog/tag/formatting">
-          <i class="fas fa-hashtag fa-sm"></i> formatting</a>  
-          <a href="/blog/tag/images">
-          <i class="fas fa-hashtag fa-sm"></i> images</a>  
+        <a href="/blog/tag/fabrication">
+          <i class="fas fa-hashtag fa-sm"></i> fabrication</a>  
           
         ·  
-        <a href="/blog/category/sample-posts">
-          <i class="fas fa-tag fa-sm"></i> sample-posts</a>  
+        <a href="/blog/category/ip">
+          <i class="fas fa-tag fa-sm"></i> IP</a>  
+          <a href="/blog/category/protection">
+          <i class="fas fa-tag fa-sm"></i> Protection</a>  
           
 
     </p>
   </header>
 
   <article class="post-content">
-    <p>Front-end: We fabrictaed a 65 nm TSMC CLN65g+ Test Chip. The top-level design consists of several sub-modules - (i) AES baseline, (ii) AES shielded by iPROBE, (iii) AES PRNG, (iv) PRNG 128, and (v) s38417 from ISCAS’89 benchmark circuits. For the evaluation in this article, we focused our experiments on the first 2 sub-modules. The baseline AES HDL code was collected from opencores.org. All the sub-modules are integrated into a TCL script and synthesized into a gate-level netlist. Synopsys Design Compiler tool was used to perform synthesis. A constraint specification file was used during the synthesis process to define the gate-level design’s clock frequency, port delays, area, and power overhead. After the synthesis step, a gate-level design constraint file (SDC) was exported and later used in the place-and-route design flow. The gate-level netlist and associated testbench were simulated in Synopsys VCS MAX flow.</p>
+    <p>We fabrictaed a 65 nm TSMC CLN65g+ Test Chip. The top-level design consists of several sub-modules - (i) AES baseline, (ii) AES shielded by iPROBE, (iii) AES PRNG, (iv) PRNG 128, and (v) s38417 from ISCAS’89 benchmark circuits. For the evaluation in this article, we focused our experiments on the first 2 sub-modules. The baseline AES HDL code was collected from opencores.org. All the sub-modules are integrated into a TCL script and synthesized into a gate-level netlist. Synopsys Design Compiler tool was used to perform synthesis. A constraint specification file was used during the synthesis process to define the gate-level design’s clock frequency, port delays, area, and power overhead. After the synthesis step, a gate-level design constraint file (SDC) was exported and later used in the place-and-route design flow. The gate-level netlist and associated testbench were simulated in Synopsys VCS MAX flow.</p>
 
 <p>Back-end: The synthesized and verified gate-level netlist along with the associated timing constraint file was the input design to the place-and-route step. Place-and-route was performed in Synopsys IC Compiler and physical verification of design-rule-check (DRC) and layout-versus-schematic (LVS) were performed in Mentor/Siemens EDA Calibre. Figure shows a top-level view of the place-and-route design.</p>
 
-<p>Packaging: The size of the chip is 1.672 mm^2 x 1.672 mm^2. Figure shows the fabricated and packaged chip in dual inline packaging (DIP). A DIP is a chip encased in hard plastic with pins running along the outside. To facilitate probing and evaluate the efficiency of iPROBE, the top of this chip is covered with a removable glass lid so that the die can be more easily accessed. In other words, we did not have to perform time-consuming sample preparation steps such as depackaging.</p>
+<p>Packaging: The size of the chip is 1.672 mm^2^ x 1.672 mm^2^. Figure shows the fabricated and packaged chip in dual inline packaging (DIP). A DIP is a chip encased in hard plastic with pins running along the outside. To facilitate probing and evaluate the efficiency of iPROBE, the top of this chip is covered with a removable glass lid so that the die can be more easily accessed. In other words, we did not have to perform time-consuming sample preparation steps such as depackaging.</p>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -179,11 +179,8 @@
     </div>
 </div>
 <div class="caption">
-    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+    The left side shows a dual-in-line (DIP) glass packaged TSMC 65nm test chip. The right side shows the floorplan of the chip.
 </div>
-
-<p>Images can be made zoomable.
-Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</code> to <code class="language-plaintext highlighter-rouge">&lt;img&gt;</code> tags that you want to make zoomable.</p>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -193,68 +190,7 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/8.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/10.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>
-
-<p>The rest of the images in this post are all zoomable, arranged into different mini-galleries.</p>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/11.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/12.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/7.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/Fig20.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
