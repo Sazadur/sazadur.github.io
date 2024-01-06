@@ -255,7 +255,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['fabrication'] # this tags will be dispalyed on the front page of your blog
-display_categories: ['IP Protection'] # these categories will be displayed on the front page of your blog
+display_categories: ['IP_Protection'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
