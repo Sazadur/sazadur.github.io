@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>TSMC 65nm Test Chip | </title>
+    <title>MIT-LL 90nm Test Chip | </title>
     <meta name="author" content="Sazadur  Rahman, Ph.D.">
-    <meta name="description" content="Test Chip with Security Primitives.">
+    <meta name="description" content="Test Chip with Physical Layout Obfuscation">
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website">
 
 
@@ -123,7 +123,7 @@
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">TSMC 65nm Test Chip</h1>
+    <h1 class="post-title">MIT-LL 90nm Test Chip</h1>
     <p class="post-meta">January 6, 2024</p>
     <p class="post-tags">
       <a href="/blog/2024"> <i class="fas fa-calendar fa-sm"></i> 2024 </a>
@@ -140,11 +140,9 @@
   </header>
 
   <article class="post-content">
-    <p>We fabrictaed a 65 nm TSMC CLN65g+ Test Chip. The top-level design consists of several sub-modules - (i) AES baseline, (ii) AES shielded by iPROBE, (iii) AES PRNG, (iv) PRNG 128, and (v) s38417 from ISCAS’89 benchmark circuits. For the evaluation in this article, we focused our experiments on the first 2 sub-modules. The baseline AES HDL code was collected from opencores.org. All the sub-modules are integrated into a TCL script and synthesized into a gate-level netlist. Synopsys Design Compiler tool was used to perform synthesis. A constraint specification file was used during the synthesis process to define the gate-level design’s clock frequency, port delays, area, and power overhead. After the synthesis step, a gate-level design constraint file (SDC) was exported and later used in the place-and-route design flow. The gate-level netlist and associated testbench were simulated in Synopsys VCS MAX flow.</p>
-
-<p>Back-end: The synthesized and verified gate-level netlist along with the associated timing constraint file was the input design to the place-and-route step. Place-and-route was performed in Synopsys IC Compiler and physical verification of design-rule-check (DRC) and layout-versus-schematic (LVS) were performed in Mentor/Siemens EDA Calibre. Figure shows a top-level view of the place-and-route design.</p>
-
-<p>Packaging: The size of the chip is $1.672 mm^2 x 1.672 mm^2$. Figure shows the fabricated and packaged chip in dual inline packaging (DIP). A DIP is a chip encased in hard plastic with pins running along the outside. To facilitate probing and evaluate the efficiency of iPROBE, the top of this chip is covered with a removable glass lid so that the die can be more easily accessed. In other words, we did not have to perform time-consuming sample preparation steps such as depackaging.</p>
+    <p>The effectiveness of a physical obfuscation method depends on how effectively it can go through all the different steps of integrated circuit design and development from RTL to GDSII and fabrication. 
+With that in mind, as shown in the figure, we implemented the “LLE - Last Level Edit” in a set of benchmark circuits consisting of ring-oscillators, linear feedback shift registers (LFSR), and S38417 from ISCAS’89 benchmark circuits. 
+To design, implement, verify, and fabricate the LLE integrated benchmark, we utilized Cadence Genus, Cadence Innovus, Calibre DesignRev, Cadence Virtuoso, and Cadence Tempus electronic design automation (EDA) tools with 90nm MITLL Low-Power FDSOI CMOS Process.</p>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -154,7 +152,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/testchip_1.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/LLE.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -168,7 +166,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/PNR.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/LLE2.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -177,24 +175,7 @@
     </div>
 </div>
 <div class="caption">
-    The left side shows a dual-in-line (DIP) glass packaged TSMC 65nm test chip. The right side shows the floorplan of the chip.
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/Fig20.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-
-  </picture>
-
-</figure>
-
-    </div>
+    Left side shows te final GDSII of LLE Test chip and right shows the fabricated chip.
 </div>
 
   </article>
