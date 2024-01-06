@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     R-339, Harris Engineering Center<p>
-    4328 Scorpius St<p>
+    4328 Scorpius St
     Orlando, FL 32816<p>
 
 news: true  # includes a list of news items
