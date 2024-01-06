@@ -12,8 +12,8 @@ profile:
     Contact: mohammad.rahman@ucf.edu
     Office: 407-823-1425<p>
     R-339, Harris Engineering Center
-    4328 Scorpius St<p>
-    Orlando, FL 32816
+    4328 Scorpius St
+    <p>Orlando, FL 32816
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
