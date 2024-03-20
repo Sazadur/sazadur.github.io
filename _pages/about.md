@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    Contact: mohammad.rahman@ucf.edu<p>
+    Contact: mohammad.rahman@ucf.edu
     Office: 407-823-1425
-    <p>R-339, Harris Engineering Center<p>
-    4328 Scorpius St<p>
+    R-339, Harris Engineering Center
+    4328 Scorpius St
     Orlando, FL 32816
 
 news: true  # includes a list of news items
