@@ -6,10 +6,10 @@ description:
 nav: true
 nav_order: 2
 ---
-## Fall 2024 - Two fully funded Ph.D. positions available!
+## We are always looking for self-motivated Ph.D. students!
 Contact at **mohammad.rahman@ucf.edu**
 
-We have two fully-funded Ph.D. positions available in our lab starting from Fall 2024. The students are expected to pursue critical research on a wide variety of topics that primarily focuses on semiconductor supply chain security including but not limited to:
+The students are expected to pursue critical research on a wide variety of topics that primarily focuses on semiconductor supply chain security including but not limited to:
 
 (1) Hardware Security\
 (2) System Security\
