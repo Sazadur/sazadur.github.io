@@ -11,7 +11,7 @@ profile:
   more_info: >
     Contact: mohammad.rahman@ucf.edu
     Office: 407-823-1425<p>
-    Harris Engineering Center
+    Harris Engineering Center<p>
     Room-339
 
 news: true  # includes a list of news items
