@@ -10,9 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     Contact: mohammad.rahman@ucf.edu
-    Office: 407-823-1425
-    
-    Harris Engineering Center (R-339)
+    Office: 407-823-1425 (R-339)
+    Harris Engineering Center
     4328-Scorpius St
     Orlando FL 32816
 
